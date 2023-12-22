@@ -20,6 +20,4 @@ Mobile Developer 📲 Muhammad Ikhwanul Hakim Hilmy Sukma Nurmakarim
 
 
 
-Machine Learning API
-
-File-file diatas adalah file yang digunakan untuk mengakses model.tflite. File tersebut diupload ke Container Registry. Kemudian, diakses menggunakan Cloud Run.
+Machine Learning API --> File-file diatas adalah file yang digunakan untuk mengakses model.tflite. File tersebut diupload ke Container Registry. Kemudian, diakses menggunakan Cloud Run.
