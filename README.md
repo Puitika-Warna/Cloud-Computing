@@ -17,6 +17,9 @@ Mobile Developer 📲 Muhammad Ikhwanul Hakim Hilmy Sukma Nurmakarim
 "Weaving the threads of our past into the fabric of our future. we are on a journey through the loom of tradition, celebrating Indonesia’s rich tapestry of traditional cloth culture with Puitika Warna"
 
 
+
+
+
 Machine Learning API
 
 File-file diatas adalah file yang digunakan untuk mengakses model.tflite. File tersebut diupload ke Container Registry. Kemudian, diakses menggunakan Cloud Run.
